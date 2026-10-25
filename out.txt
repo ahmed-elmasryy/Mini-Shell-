@@ -1,0 +1,14 @@
+total 652
+drwxrwxr-x 4 ahmed-elmasry ahmed-elmasry   4096 Oct 25 02:26 .
+drwxrwxr-x 7 ahmed-elmasry ahmed-elmasry   4096 Oct 24 19:26 ..
+drwxrwxr-x 7 ahmed-elmasry ahmed-elmasry   4096 Oct 24 18:55 .git
+drwxrwxr-x 2 ahmed-elmasry ahmed-elmasry   4096 Oct 25 02:03 .vscode
+-rw-rw-r-- 1 ahmed-elmasry ahmed-elmasry    836 Oct 24 23:53 Makefile
+-rw-rw-r-- 1 ahmed-elmasry ahmed-elmasry  11927 Oct 25 02:24 command.cc
+-rw-rw-r-- 1 ahmed-elmasry ahmed-elmasry    649 Oct 24  2025 command.h
+-rw-rw-r-- 1 ahmed-elmasry ahmed-elmasry 176160 Oct 25 02:25 command.o
+-rwxrwxr-x 1 ahmed-elmasry ahmed-elmasry 205984 Oct 25 02:25 myshell
+-rw-rw-r-- 1 ahmed-elmasry ahmed-elmasry      0 Oct 25 02:26 out.txt
+-rw-rw-r-- 1 ahmed-elmasry ahmed-elmasry   1954 Oct 24  2025 tokenizer.cc
+-rw-rw-r-- 1 ahmed-elmasry ahmed-elmasry    456 Oct 24  2025 tokenizer.h
+-rw-rw-r-- 1 ahmed-elmasry ahmed-elmasry 232976 Oct 25 02:25 tokenizer.o

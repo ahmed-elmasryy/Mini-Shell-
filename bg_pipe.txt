@@ -1,0 +1,3 @@
+-rw-rw-r-- 1 ahmed-elmasry ahmed-elmasry  14139 Oct 25 03:59 command.cc
+-rw-rw-r-- 1 ahmed-elmasry ahmed-elmasry    649 Oct 24  2025 command.h
+-rw-rw-r-- 1 ahmed-elmasry ahmed-elmasry 237816 Oct 25 04:00 command.o
